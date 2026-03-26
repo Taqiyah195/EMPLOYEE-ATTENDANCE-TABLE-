@@ -1,0 +1,1 @@
+An Employee Attendance Table is a structured format used to record and manage the daily attendance details of employees in an organization. It helps in tracking employee presence, absence, working hours, and leave status efficiently.
